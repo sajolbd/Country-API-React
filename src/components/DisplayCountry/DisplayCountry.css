@@ -1,0 +1,10 @@
+.card{
+    text-align: center;
+    width: 350px;
+    
+}
+
+.card h4{
+    width: 70%;
+    margin-left: 50px;
+}
