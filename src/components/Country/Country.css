@@ -7,5 +7,5 @@
     display: grid;
     grid-gap: 20px;
     grid-template-columns: 400px 400px 400px;
-    
+    margin-left: 80px;
 }
